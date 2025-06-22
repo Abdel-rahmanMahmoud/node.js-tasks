@@ -1,0 +1,10 @@
+[
+  {
+    "name": "php",
+    "price": 100
+  },
+  {
+    "name": "React",
+    "price": 200
+  }
+]
